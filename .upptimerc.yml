@@ -11,7 +11,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.growthflags.com
+  # cname: status.growthflags.com
   # baseUrl: /your-repo-name
   logoUrl: https://assets.website-files.com/62fb97b1750e6c38b4ed843f/631f40dd66f9b57f943d6fe9_Logo%20growthflags3.svg
   name: Growthflags Uptime
