@@ -6,7 +6,7 @@ sites:
   - name: Web App
     url: https://app.growthflags.com/
   - name: API
-    url: https://api.growthflags.com/
+    url: https://api.growthflags.com/feature-flags/features?env=production&token=pk_37013fdd97190b0f1a44151fcf9818a4d222fb8249e71517
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
