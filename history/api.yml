@@ -1,7 +1,7 @@
 url: https://api.growthflags.com/feature-flags/features?env=production&token=pk_37013fdd97190b0f1a44151fcf9818a4d222fb8249e71517
 status: up
 code: 200
-responseTime: 344
-lastUpdated: 2023-04-11T23:08:41.778Z
+responseTime: 311
+lastUpdated: 2023-04-12T23:08:32.840Z
 startTime: Fri Sep 16 2022 10:23:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
